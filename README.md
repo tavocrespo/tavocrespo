@@ -1,5 +1,10 @@
 <h1 align="center">Hi👋 Am TAVO 🇨🇴✨ </h1> 
 
+<p align="center">
+  <img src="assets/banner-1.png" alt="Banner" width="100%">
+</p>
+
+
 <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank"></a>
 <br/>
 <h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h1>
