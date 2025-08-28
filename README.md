@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 Am TAVO 🇨🇴✨ </h1> 
 
 <p align="center">
-  <img src="assets/banner-1.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/tavocrespo/tavocrespo/835b30c7560c4644ac94acb460ce872e68d2abfa/banner-1.png" alt="Banner" width="100%">
 </p>
 
 
